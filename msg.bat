@@ -1,0 +1,1 @@
+Start  ""  cmd /c "echo greeting from tom !!! &echo(&pause"
